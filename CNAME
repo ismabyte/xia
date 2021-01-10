@@ -1,4 +1,1 @@
-$ dig events.criteo.com +nostats +nocomments +nocmd
-    > ;events.criteo.com                     IN      A
-    > events.criteo.com.              3592    IN      CNAME   ismaxss.github.io.
-    
+events.criteo.com
